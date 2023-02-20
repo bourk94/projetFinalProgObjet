@@ -1,0 +1,17 @@
+Liste des enseigants enseignant.txt Thu May 19 12:01:53 EDT 2022
+1 - MembrePersonnel / numeroEmployer= 19, nom= Beaulieu, prenom= Philippe, nas= 532356789, age= 30, sexe= m, poste = 19, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Sat Feb 01 00:00:00 EST 1992 Enseignant / numeroDepartement= 1, numeroCours= 1, nomDepartement= philo, nomCours= philo 1 TempsPartiel / clSession= 2.0, sessionActuelle= hiver
+
+2 - MembrePersonnel / numeroEmployer= 14, nom= Brouillette, prenom= Nicolas, nas= 923518789, age= 20, sexe= m, poste = 14, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Fri Feb 01 00:00:00 EST 2002 Enseignant / numeroDepartement= 1, numeroCours= 1, nomDepartement= tech po, nomCours= radar TempsComplet / anneeAnciennete= 2, clAnnuel= 80.0
+
+3 - MembrePersonnel / numeroEmployer= 13, nom= Faucher, prenom= Alexis, nas= 928416789, age= 20, sexe= m, poste = 13, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Fri Feb 01 00:00:00 EST 2002 Enseignant / numeroDepartement= 1, numeroCours= 1, nomDepartement= Informatique, nomCours= prog TempsComplet / anneeAnciennete= 2, clAnnuel= 80.0
+
+4 - MembrePersonnel / numeroEmployer= 20, nom= Isabelle, prenom= René, nas= 854256951, age= 30, sexe= m, poste = 20, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Sat Feb 01 00:00:00 EST 1992 Enseignant / numeroDepartement= 1, numeroCours= 1, nomDepartement= français, nomCours= littérature TempsPartiel / clSession= 2.0, sessionActuelle= hiver
+
+5 - MembrePersonnel / numeroEmployer= 17, nom= Lafontaine, prenom= Marco, nas= 921586854, age= 30, sexe= m, poste = 17, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Sat Feb 01 00:00:00 EST 1992 Enseignant / numeroDepartement= 1, numeroCours= 1, nomDepartement= Informatique, nomCours= prog TempsPartiel / clSession= 2.0, sessionActuelle= hiver
+
+6 - MembrePersonnel / numeroEmployer= 15, nom= Thibault, prenom= Fannie, nas= 154856789, age= 20, sexe= f, poste = 15, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Fri Feb 01 00:00:00 EST 2002 Enseignant / numeroDepartement= 1, numeroCours= 1, nomDepartement= philo, nomCours= philo 2 TempsComplet / anneeAnciennete= 2, clAnnuel= 80.0
+
+7 - MembrePersonnel / numeroEmployer= 16, nom= Thibeau, prenom= Maxime, nas= 923455149, age= 20, sexe= m, poste = 16, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Fri Feb 01 00:00:00 EST 2002 Enseignant / numeroDepartement= 1, numeroCours= 1, nomDepartement= français, nomCours= littérature TempsComplet / anneeAnciennete= 2, clAnnuel= 80.0
+
+8 - MembrePersonnel / numeroEmployer= 18, nom= Trudeau, prenom= Alexis, nas= 945289439, age= 30, sexe= m, poste = 18, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Sat Feb 01 00:00:00 EST 1992 Enseignant / numeroDepartement= 1, numeroCours= 1, nomDepartement= tech po, nomCours= radar TempsPartiel / clSession= 2.0, sessionActuelle= hiver
+

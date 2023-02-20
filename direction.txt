@@ -1,0 +1,25 @@
+Liste de la direction direction.txt Thu May 19 12:01:53 EDT 2022
+1 - MembrePersonnel / numeroEmployer= 4, nom= Vincent, prenom= Vincent, nas= 423456789, age= 23, sexe= m, poste = 4, dateEmbauche= Wed Jan 01 00:00:00 EST 2020, dateNaissance= Mon Feb 01 00:00:00 EST 1999 Direction / nombrePersonneSuperviser= 5, mandat= Directeur DirectionEtude / nombreServiceOffert= 2
+
+2 - MembrePersonnel / numeroEmployer= 9, nom= Chan, prenom= Jackie, nas= 923456789, age= 20, sexe= m, poste = 9, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Fri Feb 01 00:00:00 EST 2002 Direction / nombrePersonneSuperviser= 5, mandat= Tutorat Tutorat / nombreEtudiantAide= 1, nombreSuperviseur= 1
+
+3 - MembrePersonnel / numeroEmployer= 8, nom= Gates, prenom= Bill, nas= 823456789, age= 27, sexe= m, poste = 8, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Wed Feb 01 00:00:00 EST 1995 Direction / nombrePersonneSuperviser= 5, mandat= Directeur DirectionInformatique / nombreDepartementDesservi= 1
+
+4 - MembrePersonnel / numeroEmployer= 10, nom= Lee, prenom= Bruce, nas= 113456789, age= 20, sexe= m, poste = 10, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Fri Feb 01 00:00:00 EST 2002 Direction / nombrePersonneSuperviser= 5, mandat= Tutorat Tutorat / nombreEtudiantAide= 1, nombreSuperviseur= 1
+
+5 - MembrePersonnel / numeroEmployer= 11, nom= Norris, prenom= Chuck, nas= 133456789, age= 20, sexe= m, poste = 11, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Fri Feb 01 00:00:00 EST 2002 Direction / nombrePersonneSuperviser= 5, mandat= Tutorat Tutorat / nombreEtudiantAide= 1, nombreSuperviseur= 1
+
+6 - MembrePersonnel / numeroEmployer= 6, nom= Philips, prenom= George, nas= 623456789, age= 25, sexe= m, poste = 6, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Sat Feb 01 00:00:00 EST 1997 Direction / nombrePersonneSuperviser= 5, mandat= Directeur DirectionInformatique / nombreDepartementDesservi= 1
+
+7 - MembrePersonnel / numeroEmployer= 2, nom= Scott, prenom= Alexe, nas= 223456789, age= 21, sexe= f, poste = 2, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Thu Feb 01 00:00:00 EST 2001 Direction / nombrePersonneSuperviser= 10, mandat= Directrice DirectionEtude / nombreServiceOffert= 2
+
+8 - MembrePersonnel / numeroEmployer= 12, nom= Skywalker, prenom= Luke, nas= 143456789, age= 20, sexe= m, poste = 12, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Fri Feb 01 00:00:00 EST 2002 Direction / nombrePersonneSuperviser= 5, mandat= Tutorat Tutorat / nombreEtudiantAide= 1, nombreSuperviseur= 1
+
+9 - MembrePersonnel / numeroEmployer= 7, nom= Torvals, prenom= Linus, nas= 723456789, age= 26, sexe= m, poste = 7, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Thu Feb 01 00:00:00 EST 1996 Direction / nombrePersonneSuperviser= 5, mandat= Directeur DirectionInformatique / nombreDepartementDesservi= 1
+
+10 - MembrePersonnel / numeroEmployer= 3, nom= Jobs, prenom= Steve, nas= 323456789, age= 22, sexe= m, poste = 3, dateEmbauche= Sun Feb 02 00:00:00 EST 2020, dateNaissance= Tue Feb 01 00:00:00 EST 2000 Direction / nombrePersonneSuperviser= 3, mandat= Directeur DirectionEtude / nombreServiceOffert= 1
+
+11 - MembrePersonnel / numeroEmployer= 1, nom= Davis, prenom= Alex, nas= 123456789, age= 20, sexe= m, poste = 1, dateEmbauche= Mon Feb 03 00:00:00 EST 2020, dateNaissance= Fri Feb 01 00:00:00 EST 2002 Direction / nombrePersonneSuperviser= 5, mandat= Directeur DirectionEtude / nombreServiceOffert= 1
+
+12 - MembrePersonnel / numeroEmployer= 28, nom= jhfsbbfgsdg, prenom= fgdfhfdgh, nas= 13245, age= 9, sexe= f, poste = 2, dateEmbauche= Fri May 08 00:00:00 EDT 2020, dateNaissance= Fri May 10 00:00:00 EDT 2013 Direction / nombrePersonneSuperviser= 23, mandat= sdfsdfsdf Tutorat / nombreEtudiantAide= 23, nombreSuperviseur= 32
+

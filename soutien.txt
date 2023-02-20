@@ -1,0 +1,11 @@
+Liste du personnel de soutien soutien.txt Thu May 19 12:01:53 EDT 2022
+1 - MembrePersonnel / numeroEmployer= 25, nom= jsdnfdg, prenom= sdfsgdg, nas= 123456, age= 29, sexe= f, poste = 12354, dateEmbauche= Wed Jan 14 00:00:00 EST 2015, dateNaissance= Thu May 28 00:00:00 EDT 1992 PersonnelSoutien / pavillon= Humanités, quartTravail= 16h à minuit, genreTravail= 325354646
+
+2 - MembrePersonnel / numeroEmployer= 27, nom= Boucher, prenom= Alex, nas= 854564951, age= 30, sexe= m, poste = 44, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Sat Feb 01 00:00:00 EST 1992 PersonnelSoutien / pavillon= Sciences, quartTravail= 8h à 16h, genreTravail= Soutenir la science
+
+3 - MembrePersonnel / numeroEmployer= 24, nom= Boucher, prenom= Julia, nas= 632146951, age= 30, sexe= f, poste = 24, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Sat Feb 01 00:00:00 EST 1992 PersonnelSoutien / pavillon= Humanités, quartTravail= 8h à 16h, genreTravail= Soutenir l'humanité
+
+4 - MembrePersonnel / numeroEmployer= 22, nom= Boulanger, prenom= Antony, nas= 235456951, age= 30, sexe= m, poste = 22, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Sat Feb 01 00:00:00 EST 1992 PersonnelSoutien / pavillon= Humanités, quartTravail= 8h à 16h, genreTravail= Soutenir l'humanité
+
+5 - MembrePersonnel / numeroEmployer= 23, nom= Légarer, prenom= Josuez, nas= 742616951, age= 30, sexe= m, poste = 23, dateEmbauche= Sat Feb 01 00:00:00 EST 2020, dateNaissance= Sat Feb 01 00:00:00 EST 1992 PersonnelSoutien / pavillon= Sciences, quartTravail= 8h à 16h, genreTravail= Soutenir la science
+
